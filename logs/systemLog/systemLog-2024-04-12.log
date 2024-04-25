@@ -1,0 +1,5 @@
+[2024-04-12 20:13:11] [WARNING] [CODE_B] - Avertissement : situation à surveiller.
+[2024-04-12 20:32:36] [WARNING] [DATABASE_CONNECTION_ERROR] - Avertissement : situation à surveiller.
+[2024-04-12 20:36:28] [ERROR] [DATABASE_CONNECTION_ERROR] - Avertissement : situation à surveiller.
+[2024-04-12 20:48:34] [ERROR] [DATABASE_CONNECTION_ERROR] - Avertissement : situation à surveiller.
+[2024-04-12 20:48:34] [DEBUG] [FILE_NOT_FOUND] - fichier non trouve.
